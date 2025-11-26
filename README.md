@@ -14,5 +14,7 @@
 然后运行这个周期进行周期内计划调整
 套用欧内斯特曼德尔的长波理论
 在给出一个周期的生产建议之前先模拟20轮，根据20轮的结果进行数据调整
+
+（记得装cuda，用了pytorch）
 ![00fc7f713a6b605a4211321b7f9b5669](https://github.com/user-attachments/assets/ebc38747-1b52-491a-8563-86918763ac93)
 ![a1b0eb4d9bae3a537db0fc713a50e655](https://github.com/user-attachments/assets/623743da-e731-4627-b6a0-8f739122eb97)
